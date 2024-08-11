@@ -1,0 +1,85 @@
+ [
+      {
+        "img": "hhttps://i.ibb.co/VvLNdLL/boy1.png",
+        "cover":"https://i.postimg.cc/8CtxYzqN/Rectangle-2.png",
+        "title": "Premium Gadget A",
+        "carded": 5,
+        "number": "PRD001",
+        "price": 99.99,
+        "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquet urna eu mauris bibendum, vel congue ligula posuere."
+      },
+      {
+        "img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "cover":"https://i.postimg.cc/8CtxYzqN/Rectangle-2.png",
+        "title": "Smart Gizmo B",
+        "carded": 5,
+        "number": "PRD002",
+        "price": 79.99,
+        "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      },
+      {
+        "img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "cover":"https://i.postimg.cc/PNs7Dp8z/Rectangle-2-2.png",
+        "title": "Super Widget C",
+        "carded":  3,
+        "number": "PRD003",
+        "price": 149.99,
+        "details": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+      },
+      {
+        "img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "cover":"https://i.postimg.cc/XNRNLsfx/Rectangle-2-3.png",
+        "title": "Digital Thingamajig D",
+        "carded":  4,
+        "number": "PRD004",
+        "price": 64.99,
+        "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      },
+      {
+        "img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "cover":"https://i.postimg.cc/j51mskx1/Rectangle-2-4.png",
+        "title": "Fantastic Device E",
+        "carded": 2,
+        "number": "PRD005",
+        "price": 119.99,
+        "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+      },
+      {
+        "img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "cover":"https://i.postimg.cc/3J28c29h/Rectangle-2-5.png",
+        "title": "Incredible Contraption F",
+        "carded": 6,
+        "number": "PRD006",
+        "price": 89.99,
+        "details": "Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor."
+      },
+      {
+        "img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "cover":"https://i.postimg.cc/WpFb0Bkh/Rectangle-2-6.png",
+        "title": "Advanced Widget G",
+        "carded": 5,
+        "number": "PRD007",
+        "price": 129.99,
+        "details": "Cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet."
+      },
+      {
+        "img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "cover":"https://i.postimg.cc/7hTcbMbZ/Rectangle-3.png",
+        "title": "Tech Marvel H",
+        "carded": 3,
+        "number": "PRD008",
+        "price": 74.99,
+        "details": "Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor."
+      },
+      {
+        "img": "https://i.ibb.co/VvLNdLL/boy1.png",
+        "cover":"https://i.postimg.cc/nzrNftJ7/Rectangle-3-1.png",
+        "title": "Innovative Gizmo I",
+        "carded": 4,
+        "number": "PRD009",
+        "price": 94.99,
+        "details": "Reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident."
+      }
+    ]
+ 
+   
